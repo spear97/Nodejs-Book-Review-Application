@@ -1,4 +1,4 @@
-# Express Authentication Server
+# Nodejs Book Review Application
 
 ## Description
 
