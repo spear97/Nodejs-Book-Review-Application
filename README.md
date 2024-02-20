@@ -9,7 +9,6 @@ This project is an Express authentication server that handles user authenticatio
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
@@ -39,7 +38,3 @@ Contributions are welcome! To contribute to this project, follow these steps:
 4. Commit your changes (`git commit -am 'Add new feature'`).
 5. Push to the branch (`git push origin feature/awesome-feature`).
 6. Create a new Pull Request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE.md) - see the [LICENSE.md](LICENSE.md) file for details.
